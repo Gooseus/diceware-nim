@@ -2,7 +2,12 @@
 
 This was pretty much just a test of the [Nim language](https://nim-lang.org) that I just kept messing with for a weekend.
 
-Here is the `--help` output:
+Based on the [Diceware technique](http://world.std.com/~reinhold/diceware.html) by Arnold G. Reinhold which provides a relatively easy way for a lay person to create a cryptographically secure password which is also memorable.
+
+![Obligatory XKCD reference](https://imgs.xkcd.com/comics/password_strength.png)
+*Obligatory XKCD reference - (#936)[https://xkcd.com/936/]*
+
+Here is the `diceware --help` output:
 
 ```
   Diceware CLI
